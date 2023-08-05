@@ -70,5 +70,9 @@ With using compose property we can write setContent to set compose Ui to our com
 
 ```
 
+
+![Screenshot_20230805_162251](https://github.com/ahmetbostanciklioglu/Migrate_XML_Project_Into_Compose/assets/40151328/2bf2c1f4-3e2c-44a8-b9b2-8861d89ba4a0)
+
+
 Congratulations! You migrate compose into XML project.
 
