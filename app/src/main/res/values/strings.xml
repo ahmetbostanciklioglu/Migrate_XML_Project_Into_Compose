@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Migrate_XML_into_Compose</string>
+    <string name="i_am_a_textview_in_the_xml">I am a TextView in the XML</string>
+</resources>
