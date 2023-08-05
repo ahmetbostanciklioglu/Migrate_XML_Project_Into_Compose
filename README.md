@@ -19,13 +19,12 @@ buildFeatures {
 In similar file add below dependencies.
 ```
 dependencies {
-**
-  //compose
+
+  **//compose
     implementation("androidx.compose.material:material:1.3.0-rc01")
     implementation("androidx.compose.compiler:compiler:1.3.2")
     implementation("androidx.compose.ui:ui-tooling-preview:1.3.0-rc01")
     implementation("androidx.activity:activity-compose:1.6.0")
-    debugImplementation("androidx.compose.ui:ui-tooling:1.3.0-rc01")
-**
+    debugImplementation("androidx.compose.ui:ui-tooling:1.3.0-rc01")**
 }
 ```
